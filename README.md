@@ -3,6 +3,6 @@ Este conjunto de dados contém preços de venda de casas para King County, que i
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94291995/151661725-84e7eef3-4bca-4d64-8cbc-89a60c96d5d5.jpg" />
+<img src="https://user-images.githubusercontent.com/94291995/151661869-407cc3c0-f38d-4524-aeb3-4e5c70523a53.jpg" />
 </div>
 
