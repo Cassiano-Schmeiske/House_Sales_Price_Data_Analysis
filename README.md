@@ -1,4 +1,4 @@
-# house sales price - data analysis "em construção"
+# house sales price - data analysis "Em progresso"
 Este conjunto de dados contém preços de venda de casas para King County, que inclui Seattle. Casas vendidas entre maio de 2014 e maio de 2015.
 
 
