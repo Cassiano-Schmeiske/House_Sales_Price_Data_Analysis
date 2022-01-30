@@ -7,7 +7,7 @@
 # 1. Description
 House Rocket is a fictional company that works with the purchase and sale. I want find the best business opportunities and my strategy is to buy houses in great condition at low prices and sell those properties with higher price. The attributes of houses make them more or less attractive, influencing the attractiveness of the properties and, consequently, their price. The questions to be answered are:
 
-  1.What are the properties that the company should buy and for what price?
+  1.What are the properties that the company should buy and for what price?<br>
   2.What is the best time to sell the property and the best sales price?
 
 # 2. Dataset
