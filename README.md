@@ -1,7 +1,8 @@
 # house sales price - data analysis 
 
+
 <div align="center">
-<img src="https://user-images.githubusercontent.com/94291995/151662149-e2931415-f098-49ad-a3b8-3c4631587766.jpg" />
+<img src="https://user-images.githubusercontent.com/94291995/156755601-7dcab394-39c5-40a0-8426-540e08498d66.jpg" />
 </div>
 
 
